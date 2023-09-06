@@ -15,8 +15,7 @@
 
 <a href="https://colab.research.google.com/github/1kaiser/ICESAT2/blob/main/GraphConnectionICESAT2Photon.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/2bc125e9-756e-4925-80b6-4436512ca6f0)
-
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/2bc125e9-756e-4925-80b6-4436512ca6f0" width="40%" height="40%">
 
 </td>
 </tr>
@@ -32,10 +31,11 @@
 
 <a href="https://colab.research.google.com/github/1kaiser/ICESAT2/blob/main/ICESAT2TrackElevationAnalysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/bf972650-e959-4cec-8826-ea1e27376543)
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/05a4e16d-48f7-4289-93ba-773be04bedc1)
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/2781cf78-87e8-4aa5-a1b5-97c733881915)
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/b45b8030-c9cb-4e10-b9e3-b359b15b3d98)
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/bf972650-e959-4cec-8826-ea1e27376543" width="5%" height="5%">
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/05a4e16d-48f7-4289-93ba-773be04bedc1" width="5%" height="5%">
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/2781cf78-87e8-4aa5-a1b5-97c733881915" width="20%" height="20%">
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/b45b8030-c9cb-4e10-b9e3-b359b15b3d98" width="20%" height="20%">
+
 
 </td>
 </tr>
@@ -49,9 +49,9 @@
 
 <a href="https://colab.research.google.com/github/1kaiser/ICESAT2/blob/main/ICESAT2_tracks_intersection_plotting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/6254090f-f082-46e7-bc9a-60fcf21535b7)
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/631d685d-d5b1-492c-beec-e41a84e74dc9)
-![image](https://github.com/1kaiser/ICESAT2/assets/26379748/c12327fd-34a3-45b0-9842-854a72b1dcec)
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/6254090f-f082-46e7-bc9a-60fcf21535b7" width="10%" height="10%">
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/631d685d-d5b1-492c-beec-e41a84e74dc9" width="10%" height="10%">
+<img src="https://github.com/1kaiser/ICESAT2/assets/26379748/c12327fd-34a3-45b0-9842-854a72b1dcec" width="10%" height="10%">
 
 </td>
 </tr>
